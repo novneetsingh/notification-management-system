@@ -139,7 +139,7 @@ notification-management-system/
 
 ### 📢 **Notification Management** (Protected Route - Requires Token)
 
-#### ✅ **Send Notifications**
+#### ✅ **Send a Notification**
 
 - **Endpoint:** `POST /users/create-notifications`
 
